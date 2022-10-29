@@ -4,7 +4,9 @@
  */
 html, body {
   width: 100%;
-  overflow-x: hidden; }
+  overflow-x: hidden;
+  overflow-y:hidden; }
+
 
 body {
   font-family: 'Lato', sans-serif;
@@ -552,6 +554,7 @@ section {
   left: 0;
   background-color: #000;
   overflow-x: hidden;
+  overflow-y:hidden;
   transition: 0.5s;
   padding-top: 60px;
   color: #fff; }
